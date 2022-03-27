@@ -1,0 +1,16 @@
+{ 
+    "products": [
+      { "id": 1,
+        "breed": "pembroke-welsh-corgi",
+        "name": "Charles"
+      },
+      { "id": 2,
+        "breed": "pug",
+        "name": "cheese"
+      },
+      { "id": 3,
+        "breed": "dachshund",
+        "name": "ralph"
+      }
+    ]
+  }
